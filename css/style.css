@@ -1339,7 +1339,7 @@ margin-bottom: 40px;
 .services .service-content .box{
   background-color: #ffffff;
   /* background-color: rgb(40, 85, 56); */
-  padding: 30px;
+  padding: 0px;
   /* flex: 0 0 calc(33.33% - 20px);
   max-width: calc(33.33% - 20px); */
   /* margin-bottom: 30px */
